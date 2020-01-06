@@ -1,0 +1,4 @@
+https://data2.gosat.nies.go.jp/wgetdata/GU/SWIRL2CO2/2019/SWIRL2CO2_201908_V02.81.tar
+https://data2.gosat.nies.go.jp/wgetdata/GU/SWIRL2CO2/2019/SWIRL2CO2_201909_V02.81.tar
+https://data2.gosat.nies.go.jp/wgetdata/GU/SWIRL2CO2/2019/SWIRL2CO2_201910_V02.81.tar
+https://data2.gosat.nies.go.jp/wgetdata/GU/SWIRL2CO2/2019/SWIRL2CO2_201911_V02.81.tar
